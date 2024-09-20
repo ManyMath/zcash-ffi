@@ -1,1 +1,1 @@
-# zcash-ffi
+# `zcash-ffi`
